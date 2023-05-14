@@ -1,18 +1,16 @@
-// header file for curriculum section 4: Lerneinheit 4
+// header file for curriculum section 5: Lerneinheit 5
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
 // tag::DE[]
-== Viertes Modul, das ist sein Titel
+== Reflexion und Feedback zu Architekturarbeit im agilen Kontext
 // end::DE[]
 
 // tag::EN[]
-== Fourth Module, This is its Title
+== Reflection and feedback on architecture work in the agile context
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
 
 include::02-learning-goals.adoc[{include_configuration}]
 
-// references (if any!)
-include::references.adoc[{include_configuration}]

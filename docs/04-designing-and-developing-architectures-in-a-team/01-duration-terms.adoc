@@ -1,0 +1,46 @@
+// tag::DE[]
+|===
+| Dauer: 300 Min. |
+|===
+
+=== Begriffe und Konzepte
+- Gruppenentscheidungsverfahren: Konsensieren, Veto-Verfahren
+- Moderation von Entscheidungsverfahren
+- Konzeptionelle Integrität bei mehreren Entscheidern
+- Vertikale Architekturstile (im Gegensatz zu systemweiter Schichtung)
+- Just-In-Time-Architekturentscheidungen
+- Architekturprinzipien
+- Architekturwand
+
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: 300 min |
+|===
+
+=== Terms and Principles
+- Group decision-making procedures: Consensus decisions, veto procedure
+- Moderation of decision-making
+- Design integrity in the case of multiple decision makers
+- Vertical architecture styles (in contrast to system-wide layering)
+- Just-in-time architecture decisions
+- Architecture principles
+- Architecture wall
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Überschrift in 00-structure.adoc ersetzen
+====
+// end::REMARK[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
+====
+// end::REMARK[]

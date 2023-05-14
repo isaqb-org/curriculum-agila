@@ -1,0 +1,111 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-4-1]]
+==== LZ 4-1: Methoden zum Treffen von Entscheidungen in Gruppen anwenden können
+- Methodische Grundlagen um (gleichberechtigte) Gruppenmitglieder effektiv zu Entscheidungen zu führen:
+    * Wahl- und Veto-Verfahren
+    * Konsensieren/Konsens
+    * Aufteilung von Entscheidungsvorbereitung und Entscheidung
+    * Dynamik der Delegation von Entscheidungskompetenz verstehen
+    * Anwendung im Zusammenspiel mit agilen Vorgehen (Scrum)
+
+[[LZ-4-2]]
+==== LZ 4-2: Gruppen und Teams bei Entscheidungen begleiten können
+Um in Gruppen effektiv entscheiden zu können, sind methodische und kommunikative Aspekte wichtig:
+
+- Gruppen in Entscheidungsprozessen moderieren
+- Mit Einwänden und Widerständen richtig umgehen
+- Techniken, um breite Diskussionen auf ein Entscheidungsziel zu lenken
+
+[[LZ-4-3]]
+==== LZ 4-3: Rahmenbedingungen für Teamentscheidungen schaffen können
+- Verantwortlichkeiten klären und effektiv übertragen
+- Prinzipien als Mittel für konsistente Entscheidungen und hohe konzeptionelle Integrität einsetzen
+- Technische Systemauslegung, um lokale Entscheidungen zu fördern
+
+[[LZ-4-4]]
+==== LZ 4-4: Architekturkonzepte zur Förderung lokaler Entscheidungsmöglichkeiten kennen
+Die technische Architektur beeinflusst auch, wie sehr typische Architekturthemen Entwickler beeinflussen. Ist der technologische Stack etwa nicht zentral vorgegeben, sondern durch Teams bestimmt, sind Änderungen am Team-Stack weniger weitreichend, die Kommunikationslast zwischen den Teams sinkt und Entscheidungen sind einfacher auf Teams und Entwickler verteilbar.
+
+- Aktuelle architektonische Konzepte zur Förderung lokaler Entscheidungsfähigkeit einordnen: Vertikale Architekturstile wie (Micro-)Services oder CQRS, Polyglotte Architekturansätze etc.
+- Voraussetzungen für vertikale Architekturansätze (organisatorisch und technisch)
+- Kompromisse bei der Flexibilisierung von Technologieentscheidungen (z. B. Richtung Entwickler Know-How, Betrieb oder Wartung)
+- Verbindung zu den Prinzipien des agilen Manifests (selbstorganisierte Teams, schnellere Reaktionsfähigkeit etc.)
+- Risiken der Team-lokalen Optimierung kennen und abwägen können (beispielsweise Redundanz, Verlust konzeptioneller Integrität, übertriebene Vielfalt)
+
+[[LZ-4-5]]
+==== LZ 4-5: Architekturkonzepte zur Förderung lokaler Entscheidungsmöglichkeiten kennen
+- Konzept des letzten vernünftigen Moments
+- Technische Möglichkeiten, um architektonische Fragestellungen zu verschieben
+- Architektonische Fragestellungen in Teilentscheidungen trennen
+- Techniken um dringende und risikoreiche Entscheidungen zu bearbeiten (Set based Design)
+
+[[LZ-4-6]]
+==== LZ 4-6: Möglichkeiten Architekturentscheidungen in agilen Projekten zu kommunizieren kennen
+- Stand-Ups und Feedbackrunden zu Entscheidungen
+- Leichtgewichtige Architektur-Bewertungsworkshops (siehe auch Kapitel 5)
+- Architekturwand (Informativer Arbeitsplatz)
+- Architekturkonzepte mit Prinzipien in Teams kommunizieren
+- Notwendigkeit expliziter Entscheidungskriterien für manche (große, riskante) Entscheidungen erkennen
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-4-1]]
+==== LG 4-1: Being able to use methods for making decisions in groups
+Methodological fundamentals of effectively guiding group members (with equal rights) to reaching decisions:
+
+- Voting and veto methods
+- Consensus agreement and how to achieve it
+- Separating decision preparation from decision making
+- Understanding the dynamics of the delegation of decision-making authority
+- Use in conjunction with agile methodologies (Scrum).
+
+[[LG-4-2]]
+==== LG 4-2: Being able to support groups and teams in reaching decisions
+To be able to reach decisions effectively in groups, methodical and communicative aspects are important:
+
+- Moderation of groups in decision-making processes
+- Correctly handling dissent and resistance
+- Techniques for steering broad discussion to a desired decision.
+
+[[LG-4-3]]
+==== LG 4-3: Being able to create the necessary prerequisites for team decisions
+- Clarification and effective assignment of responsibilities
+- Use of principles as a means of achieving consistent decisions and a high level of design integrity
+- Technical system configuration to promote local decisions
+
+[[LG-4-4]]
+==== LG 4-4: Being familiar with architecture concepts for promoting local decision-making capabilities
+The technical architecture also influences the extent to which typical architecture topics influence developers. If for example the technological stack is not specified centrally, but instead defined by teams, the impacts of changes to the team stack are less extensive, the communication load between the teams is reduced, and decisions can more easily be delegated to teams and developers.
+
+- Classification of current architectural concepts for promotion of a local decision-making capability: Vertical architecture styles such as (micro)services or CQRS, polyglot architecture approaches etc.
+- Prerequisites for vertical architecture approaches (organisational and technical)
+- Compromises in the transition to flexibility of technology decisions (e. g., in the direction of developer know-how, operation or maintenance)
+- Link to the principles of the Agile Manifesto (self-organised teams, faster reaction capability, etc.)
+- Being aware of and able to evaluate risks associated with team-internal optimisation (for example redundancy, loss of design integrity, excessive diversity).
+
+[[LG-4-5]]
+==== LG 4-5: Being familiar with methods for just-in-time architecture decisions
+- The concept of the last responsible moment
+- Technical ways of postponing architectural issues
+- Splitting architectural issues into sub-decisions
+- Techniques for handling urgent and high-risk decisions (Set-Based Design)
+
+[[LG-4-6]]
+==== LG 4-6: Being familiar with ways of communicating architecture decisions in agile projects
+- Stand-ups and feedback meetings on decisions
+- Lightweight architecture evaluation workshops (see also Section 5)
+- Architecture wall (informative workplace)
+- Communicating architecture concepts with principles in teams
+- Recognising the need for explicit decision criteria for some (large, risky) decisions.
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

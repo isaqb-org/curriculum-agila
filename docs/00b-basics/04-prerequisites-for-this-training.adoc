@@ -3,17 +3,21 @@
 
 Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
 
-- Voraussetzung 1
-- Voraussetzung 2, etc.
+- Praktische Erfahrung in Entwurf und Entwicklung kleiner bis mittelgroßer Softwaresysteme.
+- Praktische Erfahrung im Umgang mit Architekturentscheidungen – deren Erarbeitung, deren Dokumentation und Kommunikation.
+- Erste praktische Erfahrung in agilen Software-Projekten.
 
 **Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:
 
-- Kenntnisgruppe 1:
-  * Kenntnis 1
-  * Erfahrung 2
-  * Kenntnis 3
-  * Erfahrung 4
-  * Wissen 5
+- Kenntnisse rund um agile Vorgehensmodelle:
+    * Das agile Manifest <<agilem>>
+    * Scrum <<schwaber>>
+    * Lean / Kanban <<anderson>>, <<kniberg>>.
+- Kenntnisse und erste praktische Erfahrung in der Erarbeitung und Definition von Architekturanforderungen sowie dem Umgang mit unterschiedlichen Stakeholdern von Entwicklungsprojekten.
+- Erste praktische Erfahrungen oder Kenntnisse im Bereich der automatisierten Integration und Auslieferung von Software:
+    * Kenntnisse und erste Erfahrungen in automatisiertem Testen auf Unit und Integrationsebene
+    * Grundkenntnisse der Laufzeitanalyse von Software, etwa Profiling, Tracing, Log-Analyse, Datenanalyse
+    * Grundkenntnisse in automatisiertem Build, Integration und Auslieferung von Software.
 // end::DE[]
 
 // tag::EN[]
@@ -21,17 +25,21 @@ Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrun
 
 Participants **should** have the following prerequisite knowledge:
 
-- Prerequisite 1
-- Prerequisite 2, etc.
+- Practical experience in the design and development of small to medium-sized software systems.
+- Practical experience with the preparation, documentation and communication of architecture decisions.
+- Initial practical experience in agile software projects.
 
 Knowledge in the following areas may be **helpful** for understanding some concepts:
 
-- Area 1:
-  * Knowledge 1
-  * Experience 2
-  * Knowledge 3
-  * Experience 4
-  * Understanding 5
+- Knowledge of agile procedure models:
+    * The Agile Manifesto <<agilem>>
+    * Scrum <<schwaber>>
+    * Lean/Kanban <<anderson>>, <<kniberg>>.
+- Knowledge and initial practical experience in the development and definition of architecture requirements, and interaction with the different stakeholders of development projects.
+- Initial practical experience or knowledge in the area of automated integration and delivery of software:
+    * Knowledge and initial experience in automated testing at the unit and integration level
+    * Basic knowledge of runtime analysis of software, for example profiling, tracing, log analysis, data analysis
+    * Basic knowledge of automated Build, Integration and Delivery processes for software.
 // end::EN[]
 
 // tag::REMARK[]

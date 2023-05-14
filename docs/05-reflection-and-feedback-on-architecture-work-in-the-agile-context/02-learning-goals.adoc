@@ -1,0 +1,54 @@
+=== {learning-goals}
+
+
+// tag::DE[]
+[[LZ-5-1]]
+==== LZ 5-1: Techniken zur gemeinsamen Reflexion von Architekturentscheidungen kennen
+- Architekturbewertungstechniken leichtgewichtig ausprägen
+    * Moderation von kleinen Bewertungsworkshops
+    * Richtiges Feedback zu Entwürfen und Entscheidungsvorlagen (Feedbackregeln)
+- Metriken und Tools zur stetigen Architekturüberprüfung einsetzen
+- Realitätscheck für Architekturziele
+
+[[LZ-5-2]]
+==== LZ 5-2: Ursachen für Architekturprobleme gezielt finden können
+- Techniken für die Ursachenforschung in Gruppen (z. B. Root-Cause Analyse)
+- Zusammenhang zwischen Test- bzw. Messergebnissen und Architekturentscheidungen herstellen
+
+[[LZ-5-3]]
+==== LZ 5-3: Feedback-Möglichkeiten aus der Umsetzung kennen und Ergebnisse auf Architekturziele zurückführen können
+- Testen qualitativer Eigenschaften: Techniken, Werkzeuge und Einbindung in die Entwicklungsaktivitäten
+- Statische Qualitätsindikatoren auswählen und nutzen
+- Trendanalysen auf Qualitätsindikatoren durchführen und Erkenntnisse ableiten
+- Vorteile von Continuous Integration und Continuous Deployment in diesem Zusammenhang
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-5-1]]
+==== LG 5-1: Being familiar with techniques for joint reflection on architecture decisions
+- Lightweight development of architecture evaluation techniques
+    * Moderation of small evaluation workshops
+    * Correct feedback on drafts and decision submissions (feedback rules)
+- Use of metrics and tools for continuous architecture review
+- Reality check for architecture objectives.
+
+[[LG-5-2]]
+==== LG 5-2: Being able to find the reasons for specific architecture problems
+- Techniques for group determination of the cause of problems (e.g., root cause analysis)
+- Establishing a link between test and/or measurement results and architecture decisions.
+
+[[LG-5-3]]
+==== LG 5-3: Being able to find the reasons for specific architecture problems
+- Testing of qualitative attributes: Techniques, tools and integration into the development activities
+- Selection and use of static quality indicators
+- Carrying out trend analyses on quality indicators, and derivation of conclusions
+- Advantages of Continuous Integration and Continuous Deployment in this context
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

@@ -1,15 +1,17 @@
 // tag::DE[]
 === Was vermittelt das Modul „{curriculum-short}“?
 
-Das Modul präsentiert den Teilnehmerinnen und Teilnehmern {curriculum-name} als …
-Am Ende des Moduls kennen die Teilnehmerinnen und Teilnehmer … und können …
+Teilnehmer lernen hier, Softwaresysteme und -architekturen nach agilen Prinzipien zu entwerfen und weiterzuentwickeln. Dabei geht es einerseits darum agile Prinzipien und Ideen auf Architekturarbeit zu übertragen, anderseits darum, Architekturpraktiken sinnvoll in agiles Vorgehen zu verankern.
+
+Wird Architektur in Projekten entwickelt, die auf selbstbestimmte Teams oder gemeinsam wahrgenommene Verantwortung setzen, sind neue Fähigkeiten von Entwicklern und Architekten gefragt. Diese umfassen sowohl technische, als auch methodische und kommunikative Aspekte. Sie werden hier theoretisch und praktisch behandelt.
 // end::DE[]
 
 // tag::EN[]
 === What does the module “{curriculum-short}” convey?
 
-The module presents {curriculum-short} to the participants …
-At the end of the module, the participants know … and are able to …
+In this module, the participants learn how to design, develop and further develop software systems and architectures in accordance with agile principles. On the one hand, the module covers the application of agile principles and concepts to architecture work, and on the other hand expedient anchoring of architecture practices in an agile approach.
+
+The development of architectures in projects with self-sufficient teams or shared responsibilities demands new skills and capabilities on the part of developers and architects. These in turn cover technical as well as methodical and also communicative aspects, which are addressed here all theoretically and in practical exercises.
 // end::EN[]
 
 // tag::REMARK[]

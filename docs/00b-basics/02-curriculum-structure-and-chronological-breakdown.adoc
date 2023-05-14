@@ -4,14 +4,14 @@
 [cols="<,>", options="header"]
 |===
 | Inhalt | Empfohlene Mindestdauer (min)
-| 1. Thema mit Einleitung | 180
-| 2. Thema über xz | 150
-| 3. Thema mit viel Theorie | 120
-| 4. Thema mit xy und Beispiel | 180
-| 5. Thema mit abc und d | 210
-| 6. Thema mit Abschlussbeispiel | 120
+| Grundlagen | 90
+| Agiles Architekturvorgehen | 150
+| Architekturanforderungen in agilen Projekten | 240
+| Architekturen im Team entwerfen | 300
+| Reflexion und Feedback | 180
+| Beispiele für agile Architekturarbeit | 120
 | |
-| Summe | 960 (16h)
+| Summe | 1080min = 18h
 
 |===
 
@@ -22,16 +22,15 @@
 
 [cols="<,>", options="header"]
 |===
-| Content
-| Recommended minimum duration (minutes)
-| 1. Introduction | 180
-| 2. xz | 150
-| 3. Lots of theory | 120
-| 4. xy and example | 180
-| 5. abc und d | 210
-| 6. Final example | 120
+| Content | Recommended minimum duration (minutes)
+| Basics | 90
+| Agile approach to architecture | 150
+| Architecture requirements in agile projects | 240
+| Designing architectures in a team | 300
+| Reflection and feedback | 180
+| Examples of agile architecture work | 120
 | |
-| Total | 960 (16h)
+| Total | 1080min = 18h
 
 |===
 

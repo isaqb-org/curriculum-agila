@@ -32,24 +32,36 @@ ATTENTION: labels have to be non-numeric.
 ====
 // end::REMARK[]
 
-**B**
+**A**
 
-- [[[bachmann,Bachmann et al. 2000]]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
-- [[[bass,Bass et al. 2003]]] Bass, L., Clements, P. und Kazman, R. (2003): Software Architecture in Practice. Addison-Wesley, Reading, Mass
+- [[[agilem,AgileM2001]]] agilemanifesto.org – The Agile Manifesto. http://agilemanifesto.org/principles.html
+- [[[anderson,Anderson2010]]] David Anderson: "Kanban", Blue Hole Press, 2010, Sequim, WA
+- [[[appelo,Appelo2010]]] Jurgen Appelo: "Management 3.0: Leading Agile Developers, Developing Agile Leaders", Addison Wesley 2010
 
-**C**
+**F**
 
-- [[[clements,Clements et al. 2003]]] Clements, P., F. Bachmann, L. Bass, D. Garlan, J. Ivers et al.: Documenting Software Architectures – Views and Beyond. Addison Wesley, 2003.
-
-**H**
-
-- [[[hargis,Hargis 2004]]] Hargis, Gretchen et al.: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.
+- [[[fairbanks,Fairbanks2010]]] George Fairbanks: "Just Enough Software Architecture: A Risk-Driven Approach", Marshall & Brainerd 2010
 
 **K**
 
-- [[[kruchten,Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
+- [[[kniberg,Kniberg2011]]] Henrik Kniberg: "Lean from the Trenches: Managing Large-Scale Projects with Kanban", Pragmatic Bookshelf 2011
+
+**L**
+
+- [[[larman,Larman2008]]] Craig Larman, Bas Vodde: "Scaling Lean & Agile Development: Thinking and Organizational Tools for Large-Scale Scrum", Addison Wesley 2008
+
+**R**
+
+- [[[richardson,Richardson2005]]] Jared Richardson, William A. Gwaltney: “Ship It!: A Practical Guide to Successful Software Projects”, Pragmatic Bookshelf 2005
 
 **S**
 
-- [[[starke,Starke 2011]]] Starke, G. (2011): Effektive Software-Architekturen - Ein praktischer Leitfaden. 5. Auflage 2011, Carl Hanser Verlag, München.
+- [[[schwaber,Schwaber2013]]] Ken Schwaber, Jeff Sutherland: "The Definitive Guide to Scrum: The Rules of the Game", http://www.scrumguides.org
 
+**T**
+
+- [[[toth,Toth2015]]] Stefan Toth: "Vorgehensmuster für Softwarearchitektur: Kombinierbare Praktiken in Zeiten von Agile und Lean", 2. Auflage, Hanser Verlag 2015
+
+**V**
+
+- [[[vigenschow,Vigenschow2012]]] Uwe Vigenschow, Björn Schneider, Ines Meyrose: "Soft Skills für IT-Berater: Workshops durchführen, Kunden methodisch beraten und Veränderungen aktiv gestalten", dpunkt.verlag 2012

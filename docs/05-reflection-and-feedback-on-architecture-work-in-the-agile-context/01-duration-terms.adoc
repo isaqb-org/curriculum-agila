@@ -1,0 +1,39 @@
+// tag::DE[]
+|===
+| Dauer: 180 Min. |
+|===
+
+=== Begriffe und Konzepte
+- Leichtgewichtige Architekturbewertung und andere Feedbackmechanismen
+- Root-Cause-Analyse
+- Testen qualitativer Systemeigenschaften
+- Qualitätsindikatoren und Metriken
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: 180 min |
+|===
+
+=== Terms and Principles
+- Lightweight architecture evaluation and other feedback mechanisms
+- Root cause analysis
+- Testing of qualitative system attributes
+- Quality indicators and metrics.
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Überschrift in 00-structure.adoc ersetzen
+====
+// end::REMARK[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
+====
+// end::REMARK[]

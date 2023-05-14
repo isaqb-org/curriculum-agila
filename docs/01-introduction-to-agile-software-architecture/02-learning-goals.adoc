@@ -1,0 +1,107 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-1-1]]
+==== LZ 1-1: Die Bedeutung agiler Ideen für Architekturarbeit kennen und erläutern können
+- Definition von Architekturarbeit und Abgrenzung von Design
+    * Agiles Gedankengut in Beziehung zur Arbeit an Software-Architektur:
+    * Agile Philosophie im agilen Manifest, bzw. Scrum Guide
+    * Relevante Prinzipien des agilen Manifests
+    * Konzepte und Säulen von Lean
+    * Agile Vorgehensmodelle und deren Auswirkungen auf klassische Konzepte des Architekturvorgehens
+
+[[LZ-1-2]]
+==== LZ 1-2: Aufgaben der Architekturentwicklung und deren Abwandlung im agilen Umfeld kennen
+- Klärung wie die folgenden, im CPSA-Foundation-Lehrplan definierten, Aufgaben
+der Architekturentwicklung im agilen Umfeld wahrgenommen werden:
+    * Anforderungen und Randbedingungen klären, hinterfragen und bei Bedarf verfeinern.
+    * Strukturentscheidungen hinsichtlich Systemzerlegung und Bausteinstruktur treffen, dabei Abhängigkeiten und Schnittstellen zwischen den Bausteinen festlegen.
+    * Übergreifende technische Konzepte entscheiden (beispielsweise Persistenz, Kommunikation, GUI) und bei Bedarf umsetzen.
+    * Software-Architektur auf Basis von Sichten, Architekturmustern und technischen Konzepten kommunizieren und dokumentieren.
+    * Umsetzung und Implementierung der Architektur begleiten, Rückmeldungen der beteiligten Stakeholder bei Bedarf in die Architektur einarbeiten, Konsistenz von Quellcode und Software-Architektur prüfen und sicherstellen.
+    * Software-Architektur bewerten, insbesondere hinsichtlich Risiken bezüglich der geforderten Qualitätsmerkmale.
+    * Wenig Änderung an den Themen der Architekturarbeit, jedoch häufig Anpassung der Arbeitsweise bei der Bearbeitung von Architekturfragen (Aufgabenverteilung, Entscheidungsfindung, Ergebniskommunikation etc.).
+    * Mapping der wichtigsten Veränderungen auf die Inhalte dieses Lehrplans.
+
+[[LZ-1-3]]
+==== LZ 1-3: Architekturaufwand angemessen an Problemstellung und Projekt ausrichten können
+- Spannungsfeld zwischen schneller Reaktionsfähigkeit und guter Planbarkeit bzw. Steuerbarkeit.
+    * Im negativen Extrem: Spannungsfeld zwischen geringer Reaktionsfähigkeit (Starre) und schwerer Beherrschbarkeit (Chaos)
+- Gerade genug Architekturarbeit und unterstützende Konzepte - Arbeitseinsatz auf relevante Probleme beschränken:
+    * Fokussierung von Aufwand nach Architekturrelevanz
+    * Fokussierung von Kommunikation
+- Lean Waste in Architekturaufgaben
+
+[[LZ-1-4]]
+==== LZ 1-4: Agile Werkzeuge für die Architekturarbeit kennen
+- Taskverwaltung und -priorisierung
+- Agile Alternativen zu Modellierungstools
+    * Kompromiss zwischen einfacher Erstellbarkeit von Diagrammen und nicht durchsuchbaren oder nicht verknüpften Modellelementen
+- Stetige Codeprüfung mit Architektureigenschaften verknüpfen
+
+[[LZ-1-5]]
+==== LZ 1-5: Möglichkeiten Architektur als Querschnittsaspekt in agilen Organisationen zu verankern kennen
+Architektur als Basis-Fähigkeit von Entwicklern etablieren. Beispielsweise durch:
+
+- Offene, projektübergreifende Kommunikation von Best-Practices
+- Communities-of-Practice zu Architektur aufbauen und lebendig halten
+- Architektur-Katas als Mittel Architekturwissen zu verbreitern
+- Architekturverantwortung kommunizieren und übertragen
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-1-1]]
+==== LG 1-1: Knowing and being able to explain the significance of agile ideas for architecture work
+- Definition of architecture work and demarcation from design
+- Agile ideas in the context of work on software architectures:
+    * The agile philosophy in the Agile Manifesto and the Scrum Guide
+    * Relevant principles of the Agile Manifesto
+    * Concepts and cornerstones of Lean
+    * Agile procedure models and their impacts on classic approaches to architecture.
+
+[[LG-1-2]]
+==== LG 1-2: Knowing the tasks involved in architecture development and how they are modified in the agile environment
+- Clarification of how the following architecture development tasks defined in the CPSA Foundation Curriculum are perceived in the agile environment:
+    * Clarification, scrutiny and where necessary refinement of requirements and conditions/constraints.
+    * Making structure decisions in respect of system decomposition and module structure, and defining dependencies and interfaces between the modules.
+    * Defining and where necessary implementing general technical concepts (for example persistence, communication, GUI).
+    * Communicating and documenting software architecture based on views, architectural patterns and technical concepts.
+    * Supporting the realisation and implementation of the architecture, where necessary incorporation of feedback from the involved stakeholders into the architecture, and checking and ensuring consistency of the source code and the software architecture.
+    * Reviewing software architectures, in particular in terms of risks in respect of the specified quality criteria.
+    * Little change to the topics covered by architecture work, but often changes in the methods used when addressing architecture issues (allocation of tasks, decision making, communication of the results etc.).
+    * Mapping of the most important changes to the contents of this curriculum.
+
+[[LG-1-3]]
+==== LG 1-3: Being able to appropriately align architecture work to the specific problem and project
+- Potential conflict between a fast reaction capability and a good planning and control capability.
+    * In the negative extreme case: Conflict between low reactivity (rigidity) and a lack of controllability (chaos).
+- Just enough architecture work and supporting concepts; limitation of effort to relevant problems:
+    * Focussing of effort based on architecture relevance
+    * Focussing of communication
+- Lean waste in architecture tasks.
+
+[[LG-1-4]]
+==== LG 1-4: Knowledge of agile tools for architecture work
+- Task management and prioritisation
+- Agile alternatives to modelling tools
+    * Compromise between a simple capability of creating diagrams and model elements that cannot be searched or are not linked
+- Linking continuous code inspection to architecture attributes.
+
+[[LG-1-5]]
+==== LG 1-5: Knowledge of the capabilities of anchoring architecture as a cross-cutting aspect in agile organisations
+Establishing architecture as a basic skill of developers, for example via:
+
+- Open, cross-project communication of best practices
+- Establishment of Communities of Practice for architecture and keeping them active
+- Architecture katas as a means of disseminating architecture knowledge
+- Communicating and assigning architecture responsibility.
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

@@ -1,0 +1,63 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-2-1]]
+==== LZ 2-1: Architekturarbeit iterativ und agil gestalten können
+- Risikogetriebene Architekturarbeit: Architektonisches Risiko als bestimmender Faktor für den Einsatz von Architekturpraktiken
+- Dringlichkeit von Architekturfragestellungen einschätzen und Entscheidungen verschieben
+- Architekturarbeit in Scrum einordnen
+- Iteration 0 und nötige Vorarbeit bestimmen
+- Architekturarbeit bei der Release-Planung berücksichtigen
+- Architekturarbeit mit Kanban steuern
+
+[[LZ-2-2]]
+==== LZ 2-2: Rollenmodelle für Architekten in agilen Projekten kennen
+- Rollenmodelle für Architekten kontextabhängig auswählen. Beispielsweise:
+    * Architecture Owner/unterstützender Architekt
+    * Architekturagenten
+    * Arbeit ohne benannten Architekten
+- Verantwortlichkeiten von Scrum-Rollen
+- Zusammenspiel der drei Scrum-Rollen (Product Owner, Scrum Master, Entwicklungsteam) zur Erledigung von Architekturaufgaben
+
+[[LZ-2-3]]
+==== LZ 2-3: Rollenmodelle für Architekten in agilen Projekten kennen
+- Methodische Andockpunkte für die Zusammenarbeit schaffen
+- Stakeholder motivieren zur Architektur beizutragen
+- Architekturaspekte und -auswirkungen für fachliche Ansprechpartner verständlich machen
+
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-2-1]]
+==== LG 2-1: Being able to iteratively and agilely structure architecture work
+- Risk-driven architecture work: Architectural risk as the decisive factor for the use of architecture practices
+- Assessment of the urgency of architecture issues and postponement of decisions
+- Integration of architecture work into Scrum
+- Determining iteration 0 and the necessary preparatory work
+- Consideration of architecture work during release planning
+- Managing architecture work with Kanban.
+
+[[LG-2-2]]
+==== LG 2-2: Knowledge of role models for architects in agile projects
+- Context-based selection of role models for architects, for example:
+    * Architecture owner/supporting architect
+    * Architecture agents
+    * Work without designated architects.
+- Responsibilities of Scrum roles
+- Interaction between the three Scrum roles (Product Owner, Scrum Master, Development Team) for dealing with architecture tasks.
+
+[[LG-2-3]]
+==== LG 2-3: Knowledge of ways of involving stakeholders in architecture work
+- Creation of methodical docking points for the collaboration
+- Motivating stakeholders to contribute to the architecture
+- Making architecture aspects and impacts understandable for technical contact persons.
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

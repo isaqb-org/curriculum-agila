@@ -1,0 +1,79 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-3-1]]
+==== LZ 3-1: Qualitätsanforderungen zielgruppengerecht formulieren können
+- Abstraktionsstufen von Qualitätsszenarien
+- Architektonische Probleme und technische Kompromisse in qualitativen bzw.
+fachlichen Aussagen ausdrückbar machen
+
+[[LZ-3-2]]
+==== LZ 3-2: Agile Konzepte für Architekturanforderungen nutzen können
+- Stories mit qualitativen Aspekten erweitern (Akzeptanzkriterien)
+- Architekturanforderungen in Backlogs verankern
+- Architekturaufgaben schneiden und verteilen
+
+[[LZ-3-3]]
+==== LZ 3-3: Iterative Ansätze zur stetigen Erhebung von Architekturanforderungen anwenden können
+- Laufende Zusammenarbeit mit Kunden(-vertretern):
+    * Nutzen für fachliche Ansprechpartner herausstellen
+    * Techniken zur effektiven, regelmäßigen Einbindung fachlicher Ansprechpartner
+- Technische Schulden als Architekturanforderungen nutzen
+- Techniken um Risiken zu erheben: alleine und in Gruppen
+- Tests und statische Analyse als Quelle für Architekturanforderungen nutzen
+
+[[LZ-3-4]]
+==== LZ 3-4: Gemeinsame Anforderungspflege, -schätzung und -priorisierung effektiv gestalten können
+- Architekturanforderungen regelmäßig priorisieren, ggf. trennen und konkretisieren (z. B. innerhalb des Backlog-Grooming)
+- Gemeinsame Schätzung von architektonischen Fragestellungen
+- Priorisierungstechniken für Architekturanforderungen
+
+[[LZ-3-5]]
+==== LZ 3-5: Dringlichkeit als Treiber für Architekturarbeit kennen und erläutern können
+- Späte Architekturentscheidungen und offene Optionen als Wert (Real Options Theorie)
+- Ansätze, um dringend notwendige Architekturentscheidungen erkennen zu können
+- Kommunikation mit dem Product Owner und anderen priorisierungsrelevanten Rollen
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-3-1]]
+==== LG 3-1: Being able to formulate quality requirements appropriately for specific target groups
+- Abstraction levels of quality scenarios
+- Formulation of architectural problems and technical compromises in qualitative and technical terms.
+
+[[LG-3-2]]
+==== LG 3-2: Being able to use agile concepts for architecture requirements
+- Supplementing stories with qualitative aspects (acceptance criteria)
+- Anchoring of architecture requirements in backlogs
+- Breaking down and assigning architecture tasks.
+
+[[LG-3-3]]
+==== LG 3-3: Being able to use iterative approaches for continuous definition of architecture requirements
+- Continuous collaboration and cooperation with customers (or their representatives):
+    * Highlighting benefits for technical points of contact
+    * Techniques for effective, regular involvement of technical points of contact.
+- Using technical debts as architecture requirements
+- Techniques for determination of risks: alone and in groups
+- Using tests and static analysis as a source of architecture requirements.
+
+[[LG-3-4]]
+==== LG 3-4: Being able to effectively organise joint management, evaluation and prioritisation of requirements
+- Regular prioritisation of architecture requirements, and where necessary their separation and detailed specification (e. g., within the backlog grooming)
+- Joint evaluation of architectural issues
+- Prioritisation techniques for architecture requirements.
+
+[[LG-3-5]]
+==== LG 3-5: Knowing and being able to explain urgency as a driving factor for architecture work
+- Late architecture decisions and open options as value (Real Options Theory)
+- Methods for recognition of urgently necessary architecture decisions
+- Communication with the Product Owner and other roles of relevance to prioritisation.
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
+// end::REMARK[]

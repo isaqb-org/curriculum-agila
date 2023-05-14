@@ -1,0 +1,41 @@
+// tag::DE[]
+|===
+| Dauer: 90 Min.
+|===
+
+=== Begriffe und Konzepte
+- Software-Architektur allgemein
+- Agiles Manifest: Werte und Prinzipien
+- Agile Vorgehensmodelle inkl. Scrum und Lean
+- Agiler Umgang mit Software-Architektur
+- Software-Architektur in agilen Praktiken/Werkzeugen verankern
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: 90 min
+|===
+
+=== Terms and Principles
+- Software architecture, general
+- The Agile Manifesto: Values and principles
+- Agile procedure models incl. Scrum and Lean
+- The agile approach to software architecture
+- Anchoring software architecture in agile practices/tools
+// end::EN[]
+
+
+// tag::REMARK[]
+[NOTE]
+====
+Überschrift in 00-structure.adoc ersetzen
+====
+// end::REMARK[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
+====
+// end::REMARK[]

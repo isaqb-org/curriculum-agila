@@ -1,0 +1,31 @@
+// tag::DE[]
+|===
+| Dauer: 120 Min. |
+|===
+
+_Anmerkung_: Beispiele für reale Ausprägungen agiler Architekturarbeit können durch Trainer und Schulungsanbieter individuell ausgesucht werden.Aufgrund der bei realen IT-Systemen oftmals geltenden Geheimhaltungs- oder Vertraulichkeitsregelungen stellt der iSAQB e. V. Schulungsanbietern und Trainern frei, Beispiele abstrahiert oder auszugsweise in Schulungen zu zeigen.
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: 120 min |
+|===
+
+_Note_: Examples of real agile architecture work can be individually chosen by trainers and providers of training courses.Due to the confidentiality and non-disclosure stipulations that often apply to real-life IT systems, the iSAQB allows trainers and providers of training courses to use abstracts or excerpts of examples in courses.
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Überschrift in 00-structure.adoc ersetzen
+====
+// end::REMARK[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
+====
+// end::REMARK[]

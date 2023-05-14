@@ -1,0 +1,40 @@
+// tag::DE[]
+|===
+| Dauer: 150 Min. |
+|===
+
+=== Begriffe und Konzepte
+- Iterativ, inkrementelle Architekturentwicklung: Risikogetriebene Architekturarbeit und Release-Planung
+- Architekturarbeit mit Scrum und Kanban
+- Agile Architekturrollen
+- Stakeholder-Einbindung
+
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: 150 min |
+|===
+
+=== Terms and Principles
+- Iterative, incremental architecture development: Risk-driven architecture work and release planning
+- Architecture work with Scrum and Kanban
+- Agile architecture roles
+- Stakeholder involvement.
+
+// end::EN[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Überschrift in 00-structure.adoc ersetzen
+====
+// end::REMARK[]
+
+// tag::REMARK[]
+[NOTE]
+====
+Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
+====
+// end::REMARK[]
