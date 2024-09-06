@@ -1,4 +1,4 @@
-= Template for https://isaqb.org[iSAQB] Advanced Level Curricula
+= https://isaqb.org[iSAQB] Advanced Level Curriculum AGILA
 
 :toc:
 :toc-placement!:
@@ -22,7 +22,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-agila.svg
 This is <<copyrighted,copyrighted work>>.
 
 == Content
-This repository contains a template for iSAQB Advanced Level *curricula* in AsciiDoc.
+This repository contains the curriculum of the iSAQB® Advanced Level module AGILA in AsciiDoc.
 
 toc::[]
 
@@ -31,7 +31,7 @@ Create an issue, a merge- or pull-request
 
 == How to check out and build
 
-. Clone the repository - including the submodule:
+. Clone the repository including the submodules:
 +
 --
 [source,shell]
@@ -44,23 +44,7 @@ git clone https://github.com/isaqb-org/curriculum-agila.git --recursive
 ----
 --
 
-Prerequisite: You need a Java Runtime(tm) installed.
-
-You build the output documents with gradle.
-That will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration.
-
-In case you want to change that, adjust the following part of `build.gradle`:
-
-[source,groovy]
-----
-task buildDocs {
-  group 'Documentation'
-  description 'Grouping task for generating all languages in several formats'
-  dependsOn "includeLearningObjectives", "renderDE", "renderEN"
-}
-----
-
-In the task "renderDE", certain attributes (aka variables) are defined that configure the corresponding output.
+You build the output documents with `./gradlew buildDocs`. Prerequisite: You need a Java Runtime(tm) (17 or higher) installed.
 
 == Additional translations/languages
 include::docs-ext/EXTERNAL_DOCUMENTS_README.adoc[]
