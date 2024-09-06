@@ -14,10 +14,3 @@ In this module, the participants learn how to design, develop and further develo
 The development of architectures in projects with self-sufficient teams or shared responsibilities demands new skills and capabilities on the part of developers and architects. These in turn cover technical as well as methodical and also communicative aspects, which are addressed here all theoretically and in practical exercises.
 // end::EN[]
 
-// tag::REMARK[]
-[NOTE]
-====
-Hier bitte das Modul bzw. dessen Lerninhalte zusammenfassend in 5-8 Sätzen beschreiben. Dabei `{curriculum-name}`
-nicht entfernen, beim Zusammenbauen wird dieser Platzhalter mit dem Modulnamen ersetzt.
-====
-// end::REMARK[]
