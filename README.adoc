@@ -44,7 +44,7 @@ git clone https://github.com/isaqb-org/curriculum-agila.git --recursive
 ----
 --
 
-You build the output documents with `./gradlew buildDocs`. Prerequisite: You need a Java Runtime(tm) (17 or higher) installed.
+You build the output documents with `./gradle-tools/gradlew buildDocs`. Prerequisite: You need a Java Runtime(tm) (17 or higher) installed.
 
 == Additional translations/languages
 include::docs-ext/EXTERNAL_DOCUMENTS_README.adoc[]
