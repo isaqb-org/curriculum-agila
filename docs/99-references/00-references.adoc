@@ -19,9 +19,17 @@ This section contains references that are cited in the curriculum.
 - [[[anderson,Anderson2010]]] David Anderson: "Kanban", Blue Hole Press, 2010, Sequim, WA
 - [[[appelo,Appelo2010]]] Jurgen Appelo: "Management 3.0: Leading Agile Developers, Developing Agile Leaders", Addison Wesley 2010
 
+**E**
+- [[[erder,Erder2021]]] Murat Erder, Pierre Pureur, Eoin Woods: “Continuous Architecture in Practice”, Addison-Wesley 2021
+
 **F**
 
 - [[[fairbanks,Fairbanks2010]]] George Fairbanks: "Just Enough Software Architecture: A Risk-Driven Approach", Marshall & Brainerd 2010
+- [[[ford,Ford2017]]] Neal Ford, Rebecca Parsons, Patrick Kua: “Building Evolutionary Architectures”, O'Reilly Media 2017
+
+**H**
+
+- [[[harmel-law, Harmel-Law2024]]] Andrew Harmel-Law: "Facilitating Software Architecture", O'Reilly Media 2024
 
 **K**
 
@@ -34,14 +42,16 @@ This section contains references that are cited in the curriculum.
 **R**
 
 - [[[richardson,Richardson2005]]] Jared Richardson, William A. Gwaltney: “Ship It!: A Practical Guide to Successful Software Projects”, Pragmatic Bookshelf 2005
+- [[[richards,Richards2020]]] Mark Richards, Neal Ford: “Fundamentals of Software Architecture”, O'Reilly Media 2020
 
 **S**
 
+- [[[skelton,Skelton2019]]] Matthew Skelton, Manuel Pais: “Team Topologies: Organizing Business and Technology Teams for Fast Flow”, IT Revolution Press 2019
 - [[[schwaber,Schwaber2013]]] Ken Schwaber, Jeff Sutherland: "The Definitive Guide to Scrum: The Rules of the Game", http://www.scrumguides.org
 
 **T**
 
-- [[[toth,Toth2015]]] Stefan Toth: "Vorgehensmuster für Softwarearchitektur: Kombinierbare Praktiken in Zeiten von Agile und Lean", 2. Auflage, Hanser Verlag 2015
+- [[[toth,Toth2025]]] Stefan Toth: "Vorgehensmuster für Softwarearchitektur: Kombinierbare Praktiken in Zeiten von Agile und Lean", 4. Auflage, Hanser Verlag 2025
 
 **V**
 

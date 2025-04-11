@@ -1,0 +1,55 @@
+=== {learning-goals}
+
+
+// tag::DE[]
+[[LZ-7-1]]
+==== LZ 7-1: Beispiele für Entscheidungsverfahren in agilen Projekten kennen und nachvollziehen
+Teilnehmer sollen an mindestens zwei Beispielen nachvollziehen können, wie agile Projekte unterschiedlicher Größe Architekturentscheidungen treffen und kommunizieren. Dazu sollten in Schulungen die relevanten Meetings, Rollen und Entschiedungsverfahren beschrieben werden, sowie die konkrete Einbettung in den agilen Prozess des jeweiligen Projekts deutlich werden.
+
+[[LZ-7-2]]
+==== LZ 7-2: Beispiele für agil ausgeprägte Architekturanforderungen kennen und nachvollziehen
+- Teilnehmer sollen mindestens ein Beispiel für die Formulierung von Architekturanforderungen und deren Einbettung in agile Anforderungsartefakte (wie Stories oder Backlogs) nachvollziehen können.
+- Teilnehmer sollen Beispiele nachvollziehen, die gemeinsame Arbeit an Architekturanforderungen in realen Projekten zeigen (Refinement, Planning etc.).
+
+[[LZ-7-3]]
+==== LZ 7-3: Physische Ausprägungen agiler Kommunikationsansätze kennen
+Teilnehmer sollen in Beispielen sehen und nachvollziehen können wie agile Projekte Architekturinformationen und -entscheidungen kommunizieren (Fotos von Architekturwänden, Layouts von Informationsradiatoren, Beispiele von Architektur-Radars etc.).
+
+[[LZ-7-4]]
+==== LZ 7-4: Verschiebung von Architekturentscheidungen nachvollziehen können
+Teilnehmer sollen in einem realen Beispiel die Verschiebung von Architekturentscheidungen kennenlernen und nachvollziehen können, sowie sehen, wie der Entscheidungsprozess sichtbar gemacht werden kann (z. B. durch Status "Offen – In Diskussion – Getroffen – Veraltet").
+
+[[LZ-7-5]]
+==== LZ 7-5: Beispiele für agil organisierte Architekturgruppen kennen und nachvollziehen
+Teilnehmer sollen in mindestens zwei realen Beispielen die Organisation von Architekturcommunities oder -gilden kennenlernen und nachvollziehen können, sowie die Aktivitäten und Techniken kennenlernen die Unternehmen einsetzen, um diese Gruppen zu etablieren und aktiv zu halten. Formate wie Architecture Advice Forums, Peer Reviews, Radar-Workshops oder Reviews sollten plastisch illustriert werden.
+
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-7-1]]
+==== LG 7-1: Being familiar with and understanding examples for decision-making procedures in agile projects
+Participants should be able to understand, based on at least two examples, how agile projects of different sizes make and communicate architecture decisions.
+Relevant meetings, roles and decision-making procedures should be described in trainings, and the specific embedding into the agile process of the respective project should be made clear.
+
+[[LG-7-2]]
+==== LG 7-2: Being familiar with and understanding examples for agile architecture requirements
+- Participants should be able to understand at least one example for the formulation of architecture requirements and their embedding into agile requirements artefacts (such as stories or backlogs).
+- Participants should understand examples that illustrate joint work on architecture requirements in real projects (refinement, planning etc.).
+
+[[LG-7-3]]
+==== LG 7-3: Being familiar with physical characteristics of agile communication concepts
+Participants should be able to see and understand, based on examples, how agile projects communicate architecture information and decisions (photos of architecture walls, layouts of information radiators, examples of architecture radars etc.).
+
+[[LG-7-4]]
+==== LG 7-4: Being able to understand the postponement of architecture decisions
+Participants should, based on a real example, become familiar with and understand the postponement of architecture decisions, and see how the decision-making process can be made visible (e.g. using status labels such as "Open – In Discussion – Decided – Deprecated").
+
+[[LG-7-5]]
+==== LG 7-5: Being familiar with and understanding examples of agilely organised architecture groups
+Participants should be able to become familiar with and understand, based on at least two real examples, the organization of architecture communities or guilds, as well as the activities and techniques that companies use to establish and actively maintain these groups.
+Formats such as Architecture Advice Forums, peer reviews, radar workshops or architecture reviews should be vividly illustrated.
+
+// end::EN[]
+
+

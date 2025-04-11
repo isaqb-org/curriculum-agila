@@ -3,71 +3,76 @@
 // tag::DE[]
 [[LZ-3-1]]
 ==== LZ 3-1: Qualitätsanforderungen zielgruppengerecht formulieren können
-- Abstraktionsstufen von Qualitätsszenarien
-- Architektonische Probleme und technische Kompromisse in qualitativen bzw.
-fachlichen Aussagen ausdrückbar machen
+- Qualitätsmerkmale (z. B. Wartbarkeit, Performance, Sicherheit) anhand von ISO/IEC 25010 benennen und differenzieren
+Qualitätsanforderungen in unterschiedlichen Abstraktionsebenen formulieren (z. B. als Qualitätsziel, Qualitätsszenaro, Akzeptanzkriterium, ...)
+- Architektonische Probleme und technische Kompromisse in qualitativen Aussagen ausdrückbar machen
 
 [[LZ-3-2]]
 ==== LZ 3-2: Agile Konzepte für Architekturanforderungen nutzen können
 - Stories mit qualitativen Aspekten erweitern (Akzeptanzkriterien)
-- Architekturanforderungen in Backlogs verankern
-- Architekturaufgaben schneiden und verteilen
+- Architekturanforderungen in Backlogs verankern (z. B. als Qualitätsgeschichte, Enabler-Story oder Tech Task). Vor- und Nachteile der Konzepte verstehen.
+- Architekturthemen so strukturieren und schneiden, dass sie in agilen Iterationen bearbeitbar sind
+- Definition of Done (DoD) für qualitative Zielsetzungen verwenden
 
 [[LZ-3-3]]
 ==== LZ 3-3: Iterative Ansätze zur stetigen Erhebung von Architekturanforderungen anwenden können
 - Laufende Zusammenarbeit mit Kunden(-vertretern):
     * Nutzen für fachliche Ansprechpartner herausstellen
     * Techniken zur effektiven, regelmäßigen Einbindung fachlicher Ansprechpartner
-- Technische Schulden als Architekturanforderungen nutzen
-- Techniken um Risiken zu erheben: alleine und in Gruppen
-- Tests und statische Analyse als Quelle für Architekturanforderungen nutzen
+- Refinements, Reviews, Risikoworkshops richtig einsetzen
+- Technische Schulden auf Architekturebene erkennen, erfassen und verarbeiten
+- Statische Analysen, Tests und Monitoringdaten als Quelle für neue Architekturaufgaben nutzen
 
 [[LZ-3-4]]
-==== LZ 3-4: Gemeinsame Anforderungspflege, -schätzung und -priorisierung effektiv gestalten können
-- Architekturanforderungen regelmäßig priorisieren, ggf. trennen und konkretisieren (z. B. innerhalb des Backlog-Grooming)
-- Gemeinsame Schätzung von architektonischen Fragestellungen
-- Priorisierungstechniken für Architekturanforderungen
+==== LZ 3-4: Architekturarbeit für Refinements aufbereiten können
+- Architekturanforderungen regelmäßig reflektieren, präzisieren und neu priorisieren
+- Geeignete Techniken zur gemeinsamen Schätzung nutzen (z. B. T-Shirt Sizing, Magic Estimation, Risk-Based Sizing)
+- Methoden zur Priorisierung architektonischer Themen einsetzen
+- Arbeit in Refinements und vorbereitende Arbeiten planen können
 
 [[LZ-3-5]]
 ==== LZ 3-5: Dringlichkeit als Treiber für Architekturarbeit kennen und erläutern können
 - Späte Architekturentscheidungen und offene Optionen als Wert (Real Options Theorie)
-- Ansätze, um dringend notwendige Architekturentscheidungen erkennen zu können
-- Kommunikation mit dem Product Owner und anderen priorisierungsrelevanten Rollen
+- Ansätze, um dringend notwendige Architekturentscheidungen erkennen zu können (z. B. wachsender Implementierungsaufwand, Integrationsthemen)
+- Die Abwägung zwischen „schnell entscheiden“ und „gezielt verzögern“ reflektieren
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-3-1]]
 ==== LG 3-1: Being able to formulate quality requirements appropriately for specific target groups
-- Abstraction levels of quality scenarios
-- Formulation of architectural problems and technical compromises in qualitative and technical terms.
+- Naming and differentiating quality attributes (e.g., maintainability, performance, security) based on ISO/IEC 25010
+- Formulating quality requirements at different levels of abstraction (e.g., as quality goal, quality scenario, acceptance criterion, ...)
+- Expressing architectural problems and technical trade-offs in qualitative statements
 
 [[LG-3-2]]
 ==== LG 3-2: Being able to use agile concepts for architecture requirements
 - Supplementing stories with qualitative aspects (acceptance criteria)
-- Anchoring of architecture requirements in backlogs
-- Breaking down and assigning architecture tasks.
+- Anchoring architecture requirements in backlogs (e.g., as quality story, enabler story, or technical task), and understanding advantages and disadvantages of these approaches
+- Structuring and slicing architecture topics so they can be addressed in agile iterations
+- Using the Definition of Done (DoD) for qualitative objectives
 
 [[LG-3-3]]
-==== LG 3-3: Being able to use iterative approaches for continuous definition of architecture requirements
-- Continuous collaboration and cooperation with customers (or their representatives):
-    * Highlighting benefits for technical points of contact
-    * Techniques for effective, regular involvement of technical points of contact.
-- Using technical debts as architecture requirements
-- Techniques for determination of risks: alone and in groups
-- Using tests and static analysis as a source of architecture requirements.
+==== LG 3-3: Being able to apply iterative approaches for continuous identification of architecture requirements
+- Ongoing collaboration with customers (or their representatives):
+    * Highlighting the value for business stakeholders
+    * Techniques for effective and regular involvement of business stakeholders
+- Using refinements, reviews, and risk workshops correctly
+- Identifying, recording, and processing technical debt on the architectural level
+- Using static analyses, tests, and monitoring data as sources for new architectural tasks
 
 [[LG-3-4]]
-==== LG 3-4: Being able to effectively organise joint management, evaluation and prioritisation of requirements
-- Regular prioritisation of architecture requirements, and where necessary their separation and detailed specification (e. g., within the backlog grooming)
-- Joint evaluation of architectural issues
-- Prioritisation techniques for architecture requirements.
+==== LG 3-4: Being able to prepare architecture work for refinements
+- Regularly reflecting, refining, and reprioritizing architecture requirements
+- Using appropriate techniques for joint estimation (e.g., T-Shirt Sizing, Magic Estimation, Risk-Based Sizing)
+- Applying methods for prioritizing architectural topics
+- Being able to plan refinement activities and related preparation work
 
 [[LG-3-5]]
-==== LG 3-5: Knowing and being able to explain urgency as a driving factor for architecture work
-- Late architecture decisions and open options as value (Real Options Theory)
-- Methods for recognition of urgently necessary architecture decisions
-- Communication with the Product Owner and other roles of relevance to prioritisation.
+==== LG 3-5: Being familiar with urgency as a driver for architectural work and being able to explain it
+- Interpreting late architectural decisions and open options as value (Real Options Theory)
+- Identifying signals for urgently required architectural decisions (e.g., increasing implementation effort, integration issues)
+- Reflecting on the balance between “decide early” and “delay deliberately”
 
 // end::EN[]
 

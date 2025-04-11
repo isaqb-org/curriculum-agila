@@ -4,23 +4,25 @@
 |===
 
 === Begriffe und Konzepte
-- Leichtgewichtige Architekturbewertung und andere Feedbackmechanismen
+- Leichtgewichtige Architekturbewertung (DCAR, LASR)
 - Root-Cause-Analyse
 - Testen qualitativer Systemeigenschaften
 - Qualitätsindikatoren und Metriken
+- Fitness Functions
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: 180 min |
+| Duration: 90 min |
 |===
 
 === Terms and Principles
 - Lightweight architecture evaluation and other feedback mechanisms
 - Root cause analysis
 - Testing of qualitative system attributes
-- Quality indicators and metrics.
+- Quality indicators and metrics
+- Fitness Functions
 
 // end::EN[]
 

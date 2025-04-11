@@ -5,10 +5,11 @@
 
 === Begriffe und Konzepte
 - Zusammenarbeit mit Kunden und anderen Stakeholdern: Kommunikationsebenen, Architekturprobleme zielgruppenorientiert ausdrücken, Anforderungen und Wünsche in Architekturkonzepte übersetzen
+- Qualitätsmerkmale und ISO/IEC 25010
 - Qualitätsanforderungen in agilen Prozessen
 - Technische Schulden
 - Architektonische Risiken inkl. Erhebung
-- Anforderungspflege, Grooming, Schätzung und Priorisierung von Architekturanforderungen
+- Anforderungspflege, Refinements, Schätzung und Priorisierung von Architekturanforderungen
 - Dringlichkeit von Architekturthemen und der letzte vernünftige Moment
 
 
@@ -16,15 +17,16 @@
 
 // tag::EN[]
 |===
-| Duration: 240 min |
+| Duration: 180 min |
 |===
 
 === Terms and Principles
 - Collaboration with customers and other stakeholders: Explanation of communication levels and architecture problems appropriately for specific target groups, translation of requirements and wishes into architecture concepts
+- Quality attributes and ISO/IEC 25010
 - Quality requirements in agile processes
 - Technical debt
 - Architectural risks incl. their determination
-- Requirements management; grooming, evaluation and prioritisation of architecture requirements
+- Requirements management; refinements, evaluation and prioritisation of architecture requirements
 - Urgency of architecture issues and the last responsible moment.
 
 // end::EN[]

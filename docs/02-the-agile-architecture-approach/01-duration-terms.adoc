@@ -6,6 +6,8 @@
 === Begriffe und Konzepte
 - Iterativ, inkrementelle Architekturentwicklung: Risikogetriebene Architekturarbeit und Release-Planung
 - Architekturarbeit mit Scrum und Kanban
+- Architekturvision und Architecture Communication Canvas
+- Walking Skeleton
 - Agile Architekturrollen
 - Stakeholder-Einbindung
 
@@ -14,12 +16,14 @@
 
 // tag::EN[]
 |===
-| Duration: 150 min |
+| Duration: 120 min |
 |===
 
 === Terms and Principles
 - Iterative, incremental architecture development: Risk-driven architecture work and release planning
 - Architecture work with Scrum and Kanban
+- Architecture Vision and Architecture Communication Canvas
+- Walking Skeleton
 - Agile architecture roles
 - Stakeholder involvement.
 

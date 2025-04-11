@@ -4,15 +4,17 @@
 // tag::DE[]
 [[LZ-5-1]]
 ==== LZ 5-1: Techniken zur gemeinsamen Reflexion von Architekturentscheidungen kennen
-- Architekturbewertungstechniken leichtgewichtig ausprägen
-    * Moderation von kleinen Bewertungsworkshops
-    * Richtiges Feedback zu Entwürfen und Entscheidungsvorlagen (Feedbackregeln)
-- Metriken und Tools zur stetigen Architekturüberprüfung einsetzen
-- Realitätscheck für Architekturziele
+- Interativ und leichtgewichtig durchführbare Bewertungsformate auswählen und anwenden:
+    * DCAR - Decision Centric Architecture Reviews - für ADR-basierte, iterative Reviews
+    * LASR - Lightweight Approach for Software Reviews - als leichtgewichtige Risiko-Sessions
+    * Realitätscheck für Architekturziele um Architekturlücken zu identifizieren
+- Kleine, iterative Reviews moderieren und strukturieren
+- Feedback zu Architekturideen konstruktiv und zielgerichtet formulieren (Feedbackregeln, Moderationstechniken)
 
 [[LZ-5-2]]
 ==== LZ 5-2: Ursachen für Architekturprobleme gezielt finden können
-- Techniken für die Ursachenforschung in Gruppen (z. B. Root-Cause Analyse)
+- Ursachenanalyse in Gruppen durchführen (z. B. mit Root Cause Analysis, 5-Why)
+- Symptome, Ursachen und Auswirkungen von Architekturproblemen trennen
 - Zusammenhang zwischen Test- bzw. Messergebnissen und Architekturentscheidungen herstellen
 
 [[LZ-5-3]]
@@ -20,30 +22,49 @@
 - Testen qualitativer Eigenschaften: Techniken, Werkzeuge und Einbindung in die Entwicklungsaktivitäten
 - Statische Qualitätsindikatoren auswählen und nutzen
 - Trendanalysen auf Qualitätsindikatoren durchführen und Erkenntnisse ableiten
-- Vorteile von Continuous Integration und Continuous Deployment in diesem Zusammenhang
+- Vorteile von Continuous Integration und Continuous Deployment in diesem Zusammenhang nutzen
+
+[[LZ-5-4]]
+==== LZ 5-4: Fitness Functions zur kontinuierlichen Architekturvalidierung verstehen
+- Das Konzept von Fitness Functions erklären
+- Den Fitness Function Quadrant nutzen, um geeignete Bewertungsstrategien auszuwählen (holistisch vs. atomar, triggered vs. kontinuierlich),
+- Tools und Techniken zur Umsetzung identifizieren (z. B. ArchUnit, jQAssistant, Chaos Mesh, Linters, Metrik-Dashboards)
+- Fitness Functions in CI/CD-Prozesse, Deployments oder Laufzeitumgebungen integrieren, um automatische Rückmeldungen zur Architekturqualität zu erhalten
+- Vorteile von kontinuierlichem Qualitäts-Feedback für die Architekturarbeit (im Team) benennen
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-5-1]]
 ==== LG 5-1: Being familiar with techniques for joint reflection on architecture decisions
-- Lightweight development of architecture evaluation techniques
-    * Moderation of small evaluation workshops
-    * Correct feedback on drafts and decision submissions (feedback rules)
-- Use of metrics and tools for continuous architecture review
-- Reality check for architecture objectives.
+- Selecting and applying architecture evaluation formats that are iterative and lightweight in nature:
+    * DCAR – Decision Centric Architecture Reviews – for ADR-based, iterative reviews
+    * LASR – Lightweight Approach for Software Reviews – as lightweight risk-focused sessions
+    * Reality check for architecture goals to identify architectural gaps
+- Moderating and structuring small, iterative reviews
+- Formulating constructive and focused feedback on architectural ideas (feedback rules, moderation techniques)
 
 [[LG-5-2]]
-==== LG 5-2: Being able to find the reasons for specific architecture problems
-- Techniques for group determination of the cause of problems (e.g., root cause analysis)
-- Establishing a link between test and/or measurement results and architecture decisions.
+==== LG 5-2: Being able to find the causes of architecture problems in a targeted manner
+- Performing cause analysis in groups (e.g., using root cause analysis, 5-Whys)
+- Distinguishing symptoms, causes, and effects of architectural problems
+- Establishing the connection between test or measurement results and architecture decisions
 
 [[LG-5-3]]
-==== LG 5-3: Being able to find the reasons for specific architecture problems
-- Testing of qualitative attributes: Techniques, tools and integration into the development activities
-- Selection and use of static quality indicators
-- Carrying out trend analyses on quality indicators, and derivation of conclusions
-- Advantages of Continuous Integration and Continuous Deployment in this context
+==== LG 5-3: Being familiar with feedback opportunities from implementation and relating them to architectural goals
+- Testing of qualitative attributes: techniques, tools, and integration into development activities
+- Selecting and using static quality indicators
+- Performing trend analyses on quality indicators and deriving insights
+- Leveraging the advantages of Continuous Integration and Continuous Deployment in this context
+
+[[LG-5-4]]
+==== LG 5-4: Being able to understand fitness functions for continuous architecture validation
+- Explaining the concept of fitness functions
+- Using the Fitness Function Quadrant to select appropriate evaluation strategies (holistic vs. atomic, triggered vs. continuous)
+- Identifying tools and techniques for implementation (e.g., ArchUnit, jQAssistant, Chaos Mesh, linters, metric dashboards)
+- Integrating fitness functions into CI/CD processes, deployments or runtime environments to receive automated feedback on architectural quality
+- Naming the benefits of continuous quality feedback for architectural work (within the team)
+
 // end::EN[]
 
 

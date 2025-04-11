@@ -56,7 +56,10 @@ include::04-designing-and-developing-architectures-in-a-team/00-structure.adoc[{
 include::05-reflection-and-feedback-on-architecture-work-in-the-agile-context/00-structure.adoc[{include_configuration}]
 
 <<<
-include::06-examples-of-agile-architecture-work/00-structure.adoc[{include_configuration}]
+include::06-enabling-architecture/00-structure.adoc[{include_configuration}]
+
+<<<
+include::07-examples-of-agile-architecture-work/00-structure.adoc[{include_configuration}]
 
 <<<
 include::99-references/00-references.adoc[{include_configuration}]

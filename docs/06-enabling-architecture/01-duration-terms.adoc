@@ -1,0 +1,35 @@
+// tag::DE[]
+|===
+| Dauer: 180 Min. |
+|===
+
+=== Begriffe und Konzepte
+- Enabling Architecture: Architekt:innen als Unterstützer:innen, nicht Entscheider:innen
+- Zentralisierung vs. Dezentralisierung, Governance vs. Autonomie
+- Architecture Advice Process
+- Architecture Boards, Communities of Practice, Advice Forums
+- Architecture Radar, Architekturprinzipien
+- Pfad des geringsten Widerstands
+- Sozio-technische Systeme, Conway’s Law
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: 120 min |
+|===
+
+=== Terms and Principles
+- Enabling Architecture: Architects as enablers, not decision-makers
+- Centralization vs. decentralization, governance vs. autonomy
+- Architecture Advice Process
+- Architecture boards, communities of practice, advice forums
+- Architecture radar, architectural principles
+- Path of least resistance
+- Socio-technical systems, Conway’s Law
+
+// end::EN[]
+
+
+
+

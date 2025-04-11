@@ -8,9 +8,11 @@
 - Moderation von Entscheidungsverfahren
 - Konzeptionelle Integrität bei mehreren Entscheidern
 - Vertikale Architekturstile (im Gegensatz zu systemweiter Schichtung)
-- Just-In-Time-Architekturentscheidungen
+- Architekturentscheidungen als Prozess
+- Just-in-Time-Entscheidungen & Set-Based Design
 - Architekturprinzipien
 - Architekturwand
+- Architecture Decision Records (ADRs)
 
 
 // end::DE[]
@@ -25,9 +27,11 @@
 - Moderation of decision-making
 - Design integrity in the case of multiple decision makers
 - Vertical architecture styles (in contrast to system-wide layering)
-- Just-in-time architecture decisions
+- Architekturentscheidungen as a process
+- Just-in-Time-Decisions & Set-Based Design
 - Architecture principles
 - Architecture wall
+- Architecture Decision Records (ADRs)
 
 // end::EN[]
 

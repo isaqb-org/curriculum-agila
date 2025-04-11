@@ -3,12 +3,17 @@
 // tag::DE[]
 [[LZ-1-1]]
 ==== LZ 1-1: Die Bedeutung agiler Ideen für Architekturarbeit kennen und erläutern können
-- Definition von Architekturarbeit und Abgrenzung von Design
-    * Agiles Gedankengut in Beziehung zur Arbeit an Software-Architektur:
-    * Agile Philosophie im agilen Manifest, bzw. Scrum Guide
-    * Relevante Prinzipien des agilen Manifests
-    * Konzepte und Säulen von Lean
-    * Agile Vorgehensmodelle und deren Auswirkungen auf klassische Konzepte des Architekturvorgehens
+- Definitionen von Softwarearchitektur kennen:
+    * Welche Definitionen passen zu agilen Umfeldern?
+    * Wie grenzt sich Architektur zu Design ab?
+- Agile Weltsicht und Prinzipien kennen:
+    * Cynefin-Framework und Komplexität als Einfluss auf Vergehensmodelle
+    * Relevante Wertpaare und Prinzipien des agilen Manifests (z. B. "Responding to Change over Following a Plan")
+    * Typische Fehlanwendungen (z. B. Cargo Cult Agilität) erkennen und kritisch reflektieren.
+- Architektur und Agilität im Zusammenspiel verstehen
+    * Synergien von Architektur und Agilität
+    * Einflüsse von Scrum, Lean und agilen Denkmodellen auf Architekturentscheidungen 
+    * Grundhaltung agiler Architekturarbeit: frühes Feedback, kollaborative Entscheidungsfindung, evolutionäre Weiterentwicklung über Hypothesen
 
 [[LZ-1-2]]
 ==== LZ 1-2: Aufgaben der Architekturentwicklung und deren Abwandlung im agilen Umfeld kennen
@@ -28,37 +33,26 @@ der Architekturentwicklung im agilen Umfeld wahrgenommen werden:
 - Spannungsfeld zwischen schneller Reaktionsfähigkeit und guter Planbarkeit bzw. Steuerbarkeit.
     * Im negativen Extrem: Spannungsfeld zwischen geringer Reaktionsfähigkeit (Starre) und schwerer Beherrschbarkeit (Chaos)
 - Gerade genug Architekturarbeit und unterstützende Konzepte - Arbeitseinsatz auf relevante Probleme beschränken:
-    * Fokussierung von Aufwand nach Architekturrelevanz
+    * Kriterien zur Bewertung von Architekturrelevanz und zum gezielten Einsatz architektonischer Aktivitäten
+    * Prinzipien aus Lean (z. B. Waste-Reduktion) auf Architekturarbeit
     * Fokussierung von Kommunikation
-- Lean Waste in Architekturaufgaben
-
-[[LZ-1-4]]
-==== LZ 1-4: Agile Werkzeuge für die Architekturarbeit kennen
-- Taskverwaltung und -priorisierung
-- Agile Alternativen zu Modellierungstools
-    * Kompromiss zwischen einfacher Erstellbarkeit von Diagrammen und nicht durchsuchbaren oder nicht verknüpften Modellelementen
-- Stetige Codeprüfung mit Architektureigenschaften verknüpfen
-
-[[LZ-1-5]]
-==== LZ 1-5: Möglichkeiten Architektur als Querschnittsaspekt in agilen Organisationen zu verankern kennen
-Architektur als Basis-Fähigkeit von Entwicklern etablieren. Beispielsweise durch:
-
-- Offene, projektübergreifende Kommunikation von Best-Practices
-- Communities-of-Practice zu Architektur aufbauen und lebendig halten
-- Architektur-Katas als Mittel Architekturwissen zu verbreitern
-- Architekturverantwortung kommunizieren und übertragen
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-1-1]]
 ==== LG 1-1: Knowing and being able to explain the significance of agile ideas for architecture work
-- Definition of architecture work and demarcation from design
-- Agile ideas in the context of work on software architectures:
-    * The agile philosophy in the Agile Manifesto and the Scrum Guide
-    * Relevant principles of the Agile Manifesto
-    * Concepts and cornerstones of Lean
-    * Agile procedure models and their impacts on classic approaches to architecture.
+- Knowing definitions of software architecture:
+    * Which definitions are suitable for agile environments?
+    * How is architecture distinguished from design?
+- Knowing the agile worldview and principles:
+    * Cynefin framework and complexity as a factor influencing process models
+    * Relevant value pairs and principles of the Agile Manifesto (e.g., “Responding to change over following a plan”)
+    * Recognizing and critically reflecting on typical misapplications (e.g., Cargo Cult Agility)
+- Understanding the interaction between architecture and agility:
+    * Synergies between architecture and agility
+    * Influences of Scrum, Lean, and agile thinking models on architectural decisions
+    * Core mindset of agile architecture work: early feedback, collaborative decision-making, evolutionary development through hypotheses
 
 [[LG-1-2]]
 ==== LG 1-2: Knowing the tasks involved in architecture development and how they are modified in the agile environment
@@ -74,28 +68,12 @@ Architektur als Basis-Fähigkeit von Entwicklern etablieren. Beispielsweise durc
 
 [[LG-1-3]]
 ==== LG 1-3: Being able to appropriately align architecture work to the specific problem and project
-- Potential conflict between a fast reaction capability and a good planning and control capability.
-    * In the negative extreme case: Conflict between low reactivity (rigidity) and a lack of controllability (chaos).
-- Just enough architecture work and supporting concepts; limitation of effort to relevant problems:
-    * Focussing of effort based on architecture relevance
-    * Focussing of communication
-- Lean waste in architecture tasks.
-
-[[LG-1-4]]
-==== LG 1-4: Knowledge of agile tools for architecture work
-- Task management and prioritisation
-- Agile alternatives to modelling tools
-    * Compromise between a simple capability of creating diagrams and model elements that cannot be searched or are not linked
-- Linking continuous code inspection to architecture attributes.
-
-[[LG-1-5]]
-==== LG 1-5: Knowledge of the capabilities of anchoring architecture as a cross-cutting aspect in agile organisations
-Establishing architecture as a basic skill of developers, for example via:
-
-- Open, cross-project communication of best practices
-- Establishment of Communities of Practice for architecture and keeping them active
-- Architecture katas as a means of disseminating architecture knowledge
-- Communicating and assigning architecture responsibility.
+- Tension between rapid responsiveness and sufficient planning or manageability:
+    * In the extreme case: tension between low responsiveness (rigidity) and poor controllability (chaos)
+- Just enough architecture work and supporting concepts – limiting effort to relevant problems:
+    * Criteria for evaluating architectural relevance and targeted application of architectural activities
+    * Applying Lean principles (e.g., waste reduction) to architectural work
+    * Focusing communication
 
 // end::EN[]
 

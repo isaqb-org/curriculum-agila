@@ -6,6 +6,9 @@
 === Begriffe und Konzepte
 - Software-Architektur allgemein
 - Agiles Manifest: Werte und Prinzipien
+- Cynefin-Framework
+- 5 Revolutions of Software Engineering
+- Cargo Cult Agilität
 - Agile Vorgehensmodelle inkl. Scrum und Lean
 - Agiler Umgang mit Software-Architektur
 - Software-Architektur in agilen Praktiken/Werkzeugen verankern
@@ -20,6 +23,9 @@
 === Terms and Principles
 - Software architecture, general
 - The Agile Manifesto: Values and principles
+- Cynefin-Framework
+- 5 Revolutions of Software Engineering
+- Cargo Cult Agility
 - Agile procedure models incl. Scrum and Lean
 - The agile approach to software architecture
 - Anchoring software architecture in agile practices/tools

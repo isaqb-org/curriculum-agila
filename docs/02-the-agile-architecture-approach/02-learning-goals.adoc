@@ -2,56 +2,68 @@
 
 // tag::DE[]
 [[LZ-2-1]]
-==== LZ 2-1: Architekturarbeit iterativ und agil gestalten können
-- Risikogetriebene Architekturarbeit: Architektonisches Risiko als bestimmender Faktor für den Einsatz von Architekturpraktiken
-- Dringlichkeit von Architekturfragestellungen einschätzen und Entscheidungen verschieben
-- Architekturarbeit in Scrum einordnen
-- Iteration 0 und nötige Vorarbeit bestimmen
-- Architekturarbeit bei der Release-Planung berücksichtigen
-- Architekturarbeit mit Kanban steuern
+==== LZ 2-1: Architekturarbeit um Orientierung zu schaffen agil gestalten können
+- Zweck und die Grenzen einer Architekturvision im agilen Kontext erklären
+- Architekturvisionen leichtgewichtig entwickeln (Architekturvision oder Architecture Communication Canvas)
+- Walking Skeleton mit breiter Architekturüberdeckung planen und gegen ein Minimal Viable Product abgrenzen können
+- Mit Architekturvision und Skeleton erste Risiken sichtbar machen und absichern
 
 [[LZ-2-2]]
-==== LZ 2-2: Rollenmodelle für Architekten in agilen Projekten kennen
-- Rollenmodelle für Architekten kontextabhängig auswählen. Beispielsweise:
-    * Architecture Owner/unterstützender Architekt
-    * Architekturagenten
-    * Arbeit ohne benannten Architekten
-- Verantwortlichkeiten von Scrum-Rollen
-- Zusammenspiel der drei Scrum-Rollen (Product Owner, Scrum Master, Entwicklungsteam) zur Erledigung von Architekturaufgaben
+==== LZ 2-1: Architekturarbeit kontinuierlich und iterativ weiterführen können
+- Risikogetriebene Architekturarbeit: Architektonisches Risiko als bestimmender Faktor für den Einsatz von Architekturpraktiken
+- Dringlichkeit von Architekturfragestellungen einschätzen und Entscheidungen verschieben
+- Architekturthemen in Backlogs integrieren und dynamisch priorisieren
+- Hypothesengetriebenes Vorgehen zur (In)Validierung von Architekturansätzen verwenden
+- Optional: Architekturarbeit in Kanban-Systeme einbetten und über Flussmetriken (z. B. WIP-Limits, Lead Time) steuern
 
 [[LZ-2-3]]
 ==== LZ 2-3: Rollenmodelle für Architekten in agilen Projekten kennen
+- Rollenmodelle für Architekten kontextabhängig auswählen. Beispielsweise:
+    * Architecture Owner/unterstützende Architekt:in als Enabler, Coach und Moderator:in
+    * Architektur-Champions
+    * Selbstorganisierte Teams ohne explizite Architektenrolle
+- Die Verantwortungsteilung im Scrum-Team (PO, SM, Dev-Team) mit Blick auf Architekturaufgaben verstehen
+    * Das Zusammenspiel von Dev-Team und ggf. Architekt:innen mit Product Ownern bei der Klärung und Priorisierung von Architekturthemen darstellen
+
+[[LZ-2-4]]
+==== LZ 2-4: Möglichkeiten Stakeholder in Architekturarbeit zu involvieren kennen
 - Methodische Andockpunkte für die Zusammenarbeit schaffen
 - Stakeholder motivieren zur Architektur beizutragen
-- Architekturaspekte und -auswirkungen für fachliche Ansprechpartner verständlich machen
+- Architekturaspekte und -auswirkungen für fachliche Ansprechpartner verständlich machen, z. B. mit Hilfe von Visualisierungen, Storytelling, Canvas-Modellen
 
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-2-1]]
-==== LG 2-1: Being able to iteratively and agilely structure architecture work
-- Risk-driven architecture work: Architectural risk as the decisive factor for the use of architecture practices
-- Assessment of the urgency of architecture issues and postponement of decisions
-- Integration of architecture work into Scrum
-- Determining iteration 0 and the necessary preparatory work
-- Consideration of architecture work during release planning
-- Managing architecture work with Kanban.
+==== LG 2-1: Being able to structure architecture work in an agile way to provide a vision
+- Explaining the purpose and boundaries of an architecture vision in an agile context
+- Developing a lightweight architectural idea (e.g. Architecture Vision or Architecture Communication Canvas)
+- Planning a Walking Skeleton with broad architectural coverage and being able to differentiate it from a Minimal Viable Product
+- Making initial risks visible and mitigable using architecture vision and Walking Skeleton
 
 [[LG-2-2]]
-==== LG 2-2: Knowledge of role models for architects in agile projects
-- Context-based selection of role models for architects, for example:
-    * Architecture owner/supporting architect
-    * Architecture agents
-    * Work without designated architects.
-- Responsibilities of Scrum roles
-- Interaction between the three Scrum roles (Product Owner, Scrum Master, Development Team) for dealing with architecture tasks.
+==== LG 2-2: Being able to continuously and iteratively evolve architectural work
+- Risk-driven architecture work: Architectural risk as the determining factor for using architectural practices
+- Assessing the urgency of architectural issues and deferring decisions when appropriate
+- Integrating architectural topics into backlogs and dynamically prioritizing them
+- Using hypothesis-driven approaches to (in)validate architectural options
+- Optional: Embedding architectural work into Kanban systems and managing it using flow metrics (e.g., WIP limits, lead time)
 
 [[LG-2-3]]
-==== LG 2-3: Knowledge of ways of involving stakeholders in architecture work
-- Creation of methodical docking points for the collaboration
-- Motivating stakeholders to contribute to the architecture
-- Making architecture aspects and impacts understandable for technical contact persons.
+==== LG 2-3: Knowledge of role models for architects in agile projects
+- Selecting appropriate architectural role models depending on the context. For example:
+    * Architecture Owner / Supporting Architect as enabler, coach, and moderator
+    * Architecture champions
+    * Self-organized teams without a designated architect role
+- Understanding how responsibilities are shared within a Scrum team (PO, SM, Dev Team) in the context of architectural tasks
+    * Describing the collaboration between development teams (and possibly architects) and Product Owners for clarifying and prioritizing architecture topics
+
+[[LG-2-4]]
+==== LG 2-4: Knowledge of ways of involving stakeholders in architecture work
+- Creating methodical points of interaction for collaboration
+- Motivating stakeholders to contribute to architectural work
+- Making architectural aspects and their impact understandable for business stakeholders, e.g., using visualizations, storytelling, or canvas models.
 
 // end::EN[]
 
