@@ -16,7 +16,7 @@ Architektur als Basis-Fähigkeit von Entwicklern etablieren. Beispielsweise durc
 - Spannungsfeld zwischen zentraler Steuerung und dezentraler Entscheidungsautonomie 
 - Governance-Ansätze mit agiler Denkweise verbinden (Prinzipien statt Regeln)
 - Die Grenze zwischen Makro- und Mikroarchitektur aktiv gestalten
-- Wichtige Faktoren für erfolgreiche Dezentralisierung benennen (breites Ziel-Verständnis, gemeinsames Architekturverständnis, zeitnahes Feedback, Transparenz & Cross-Pollintaion, ...)
+- Wichtige Faktoren für erfolgreiche Dezentralisierung benennen (breites Ziel-Verständnis, gemeinsames Architekturverständnis, zeitnahes Feedback, Transparenz & Cross-Pollination, ...)
 
 [[[LZ-6-3]]
 ==== LZ 6-3: Zentrale Architekturstrukturen in Organisationen einordnen und reflektieren

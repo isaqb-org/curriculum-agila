@@ -9,7 +9,7 @@
 - Mit Architekturvision und Skeleton erste Risiken sichtbar machen und absichern
 
 [[LZ-2-2]]
-==== LZ 2-1: Architekturarbeit kontinuierlich und iterativ weiterführen können
+==== LZ 2-2: Architekturarbeit kontinuierlich und iterativ weiterführen können
 - Risikogetriebene Architekturarbeit: Architektonisches Risiko als bestimmender Faktor für den Einsatz von Architekturpraktiken
 - Dringlichkeit von Architekturfragestellungen einschätzen und Entscheidungen verschieben
 - Architekturthemen in Backlogs integrieren und dynamisch priorisieren
@@ -38,7 +38,7 @@
 [[LG-2-1]]
 ==== LG 2-1: Being able to structure architecture work in an agile way to provide a vision
 - Explaining the purpose and boundaries of an architecture vision in an agile context
-- Developing a lightweight architectural idea (e.g. Architecture Vision or Architecture Communication Canvas)
+- Developing a lightweight architectural idea (e.g., Architecture Vision or Architecture Communication Canvas)
 - Planning a Walking Skeleton with broad architectural coverage and being able to differentiate it from a Minimal Viable Product
 - Making initial risks visible and mitigable using architecture vision and Walking Skeleton
 

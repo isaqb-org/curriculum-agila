@@ -43,7 +43,7 @@ Participants should be able to see and understand, based on examples, how agile 
 
 [[LG-7-4]]
 ==== LG 7-4: Being able to understand the postponement of architecture decisions
-Participants should, based on a real example, become familiar with and understand the postponement of architecture decisions, and see how the decision-making process can be made visible (e.g. using status labels such as "Open – In Discussion – Decided – Deprecated").
+Participants should, based on a real example, become familiar with and understand the postponement of architecture decisions, and see how the decision-making process can be made visible (e.g., using status labels such as "Open – In Discussion – Decided – Deprecated").
 
 [[LG-7-5]]
 ==== LG 7-5: Being familiar with and understanding examples of agilely organised architecture groups

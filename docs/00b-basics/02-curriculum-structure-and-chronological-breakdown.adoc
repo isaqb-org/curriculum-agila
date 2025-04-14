@@ -1,4 +1,4 @@
-// tag::DE[]
+\// tag::DE[]
 === Struktur des Lehrplans und empfohlene zeitliche Aufteilung
 
 [cols="<,>", options="header"]
@@ -6,9 +6,9 @@
 | Inhalt | Empfohlene Mindestdauer (min)
 | Grundlagen | 90
 | Agiles Architekturvorgehen | 120
-| Architekturanforderungen in agilen Projekten | 180
+| Architekturanforderungen in agilen Projekten | 210
 | Architekturen im Team entwerfen | 300
-| Reflexion und Feedback | 90
+| Reflexion und Feedback | 120
 | Unterstützende Architektur (Team-Übergreifend) | 120
 | Beispiele für agile Architekturarbeit | 120
 | |
@@ -26,10 +26,10 @@
 | Content | Recommended minimum duration (minutes)
 | Basics | 90
 | Agile approach to architecture | 120
-| Architecture requirements in agile projects | 180
+| Architecture requirements in agile projects | 210
 | Designing architectures in a team | 300
-| Reflection and feedback | 90
-| Enabling Architecture (spanning multiple teams) | 120
+| Reflection and feedback | 120
+| Supporting Architecture (spanning multiple teams) | 120
 | Examples of agile architecture work | 120
 | |
 | Total | 1080min = 18h

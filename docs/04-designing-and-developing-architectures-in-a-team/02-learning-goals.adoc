@@ -44,7 +44,7 @@ Um in Gruppen effektiv entscheiden zu können, sind methodische und kommunikativ
 - Zweck und Aufbau von Architecture Decision Records (ADRs) erklären
 - ADRs einsetzen, um Transparenz, Nachvollziehbarkeit und Teambeteiligung zu fördern
 - Unterschiede zu klassischen Architekturdokumentationen verstehen (lightweight, dezidiert, inkrementell erstellt)
-- Möglichkeiten kennen, wie ADRs  im Team eingeführt werden können (z. B. Wiki, Markdown, arc42).
+- Möglichkeiten kennen, wie ADRs im Team eingeführt werden können (z. B. Wiki, Markdown, arc42).
 
 // end::DE[]
 
@@ -75,7 +75,7 @@ To reach effective decisions in groups, methodological and communicative aspects
 
 [[LG-4-4]]
 ==== LG 4-4: Being able to understand and make architecture decisions as a process and just-in-time
-Understanding architecture decisions as an iterative decision-making process (open → in progress → decided → deprecated)
+- Understanding architecture decisions as an iterative decision-making process (open → in progress → decided → deprecated)
 - Correctly applying the concept of the last responsible moment
 - Technical options for postponing architectural decisions
 - Splitting architectural issues into sub-decisions

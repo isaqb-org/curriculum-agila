@@ -4,7 +4,7 @@
 [[LZ-3-1]]
 ==== LZ 3-1: Qualitätsanforderungen zielgruppengerecht formulieren können
 - Qualitätsmerkmale (z. B. Wartbarkeit, Performance, Sicherheit) anhand von ISO/IEC 25010 benennen und differenzieren
-Qualitätsanforderungen in unterschiedlichen Abstraktionsebenen formulieren (z. B. als Qualitätsziel, Qualitätsszenaro, Akzeptanzkriterium, ...)
+Qualitätsanforderungen in unterschiedlichen Abstraktionsebenen formulieren (z. B. als Qualitätsziel, Qualitätsszenario, Akzeptanzkriterium, ...)
 - Architektonische Probleme und technische Kompromisse in qualitativen Aussagen ausdrückbar machen
 
 [[LZ-3-2]]

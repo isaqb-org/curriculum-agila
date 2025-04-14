@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 180 Min. |
+| Dauer: 120 Min. |
 |===
 
 === Begriffe und Konzepte

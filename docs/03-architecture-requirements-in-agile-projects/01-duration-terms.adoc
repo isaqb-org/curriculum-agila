@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 240 Min. |
+| Dauer: 210 Min. |
 |===
 
 === Begriffe und Konzepte
@@ -17,7 +17,7 @@
 
 // tag::EN[]
 |===
-| Duration: 180 min |
+| Duration: 210 min |
 |===
 
 === Terms and Principles

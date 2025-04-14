@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 180 Min. |
+| Dauer: 120 Min. |
 |===
 
 === Begriffe und Konzepte
@@ -14,11 +14,11 @@
 
 // tag::EN[]
 |===
-| Duration: 90 min |
+| Duration: 120 min |
 |===
 
 === Terms and Principles
-- Lightweight architecture evaluation and other feedback mechanisms
+- Lightweight architecture evaluation and other feedback mechanisms (DCAR, LASR)
 - Root cause analysis
 - Testing of qualitative system attributes
 - Quality indicators and metrics

@@ -45,7 +45,7 @@ der Architekturentwicklung im agilen Umfeld wahrgenommen werden:
 - Knowing definitions of software architecture:
     * Which definitions are suitable for agile environments?
     * How is architecture distinguished from design?
-- Knowing the agile worldview and principles:
+- Knowing the agile world view and principles:
     * Cynefin framework and complexity as a factor influencing process models
     * Relevant value pairs and principles of the Agile Manifesto (e.g., “Responding to change over following a plan”)
     * Recognizing and critically reflecting on typical misapplications (e.g., Cargo Cult Agility)

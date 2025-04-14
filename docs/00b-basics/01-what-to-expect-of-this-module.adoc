@@ -9,8 +9,8 @@ Das Modul vermittelt, wie Architekturarbeit in selbstorganisierten Teams gelinge
 // tag::EN[]
 === What does the module “{curriculum-short}” convey?
 
-In this module, participants learn how to design, evolve, and collaboratively take responsibility for software systems and architectures in line with agile principles. The module covers how to apply agile thinking and working models to architectural work, as well as how to effectively and lightweightly integrate architectural practices into agile approaches.
+In this module, participants learn how to design, evolve, and collaboratively take responsibility for software systems and architectures in line with agile principles. The module covers how to apply agile thinking and working models to architectural work, as well as how to effectively and in a lightweight way integrate architectural practices into agile approaches.
 
-It provides the skills and techniques needed to conduct architectural work in self-organized teams – including technical, methodological, and communication competencies. Topics include collaborative decision-making, continuous architecture evaluation, stakeholder involvement, and the design of enabling roles and structures in agile organizations. These are addressed both theoretically and through practical exercises.
+It provides the skills and techniques needed to conduct architectural work in self-organized teams – including technical, methodological, and communicative competencies. Topics include collaborative decision-making, continuous architecture evaluation, stakeholder involvement, and the design of enabling roles and structures in agile organizations. These are addressed both theoretically and through practical exercises.
 // end::EN[]
 

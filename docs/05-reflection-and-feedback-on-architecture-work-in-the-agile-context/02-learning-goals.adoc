@@ -4,7 +4,7 @@
 // tag::DE[]
 [[LZ-5-1]]
 ==== LZ 5-1: Techniken zur gemeinsamen Reflexion von Architekturentscheidungen kennen
-- Interativ und leichtgewichtig durchführbare Bewertungsformate auswählen und anwenden:
+- Iterativ und leichtgewichtig durchführbare Bewertungsformate auswählen und anwenden:
     * DCAR - Decision Centric Architecture Reviews - für ADR-basierte, iterative Reviews
     * LASR - Lightweight Approach for Software Reviews - als leichtgewichtige Risiko-Sessions
     * Realitätscheck für Architekturziele um Architekturlücken zu identifizieren
