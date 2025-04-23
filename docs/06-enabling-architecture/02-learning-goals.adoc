@@ -3,7 +3,7 @@
 
 // tag::DE[]
 
-[[[LZ-6-1]]
+[[LZ-6-1]]
 ==== LZ 6-1: Möglichkeiten Architektur als Querschnittsaspekt in agilen Organisationen zu verankern kennen
 Architektur als Basis-Fähigkeit von Entwicklern etablieren. Beispielsweise durch:
 - Offene, projektübergreifende Kommunikation von Best-Practices
@@ -11,40 +11,40 @@ Architektur als Basis-Fähigkeit von Entwicklern etablieren. Beispielsweise durc
 - Architektur-Katas als Mittel Architekturwissen zu verbreitern
 - Architekturverantwortung kommunizieren und übertragen
 
-[[[LZ-6-2]]
+[[LZ-6-2]]
 ==== LZ 6-2: Kräfte der Architekturarbeit zwischen Zentralisierung und Dezentralisierung verstehen
 - Spannungsfeld zwischen zentraler Steuerung und dezentraler Entscheidungsautonomie 
 - Governance-Ansätze mit agiler Denkweise verbinden (Prinzipien statt Regeln)
 - Die Grenze zwischen Makro- und Mikroarchitektur aktiv gestalten
 - Wichtige Faktoren für erfolgreiche Dezentralisierung benennen (breites Ziel-Verständnis, gemeinsames Architekturverständnis, zeitnahes Feedback, Transparenz & Cross-Pollination, ...)
 
-[[[LZ-6-3]]
+[[LZ-6-3]]
 ==== LZ 6-3: Zentrale Architekturstrukturen in Organisationen einordnen und reflektieren
 - Verschiedene zentrale Architekturstrukturen beschreiben (z. B. Architecture Board, Advice Forum, virtuelle Architekturgruppen)
 - Deren Nutzen, Risiken und sinnvolle Einsatzkontexte bewerten
 - Formate für Wissensteilung, Beratung und Standardsetzung an den Bedarf agiler Organisationen anpassen
 - Zwischen kontrollierenden und unterstützenden Strukturen unterscheiden.
 
-[[[LZ-6-4]]
+[[LZ-6-4]]
 ==== LZ 6-4: Zusammenhang zwischen Architekturstilen und agiler Architekturarbeit verstehen 
 - Den Einfluss architektonischer Stile auf Teamautonomie und Veränderbarkeit erläutern (z. B. Microservices vs. Layered Architectures, Self-contained Systems vs. Modulare Monolithen)
 - Verstehen, wie Architekturstil, Organisationsstruktur und lebbare Vorgehensmodelle sich gegenseitig beeinflussen.
 
-[[[LZ-6-5]]
+[[LZ-6-5]]
 ==== LZ 6-5: Architekturkonzepte zur Förderung lokaler Entscheidungsmöglichkeiten etablieren können
 - Maßnahmen zur Förderung lokaler technischer Entscheidungen identifizieren und einführen
 - Einen "Pfad des geringsten Widerstands" aktiv gestalten
 - Die Risiken übermäßiger Autonomie einschätzen (z. B. Wildwuchs, redundante Logik, technologische Fragmentierung)
 - Passende Architekturprinzipien und Rahmenbedingungen entwickeln, um Balance zu schaffen
 
-[[[LZ-6-6]]
+[[LZ-6-6]]
 ==== LZ 6-6: Architekturentscheidungen beratend begleiten können
 - Die Grundidee und Phasen des Architecture Advice Process anwenden
 - Zwischen Entscheidungsvorbereitung, -begleitung und -verantwortung differenzieren,
 - Geeignete Formate für beratende Architekturarbeit wählen (z. B. Pairing, Shadowing, Reviews, Konsens-Formate, ADR-Workshops)
 - Als Coach statt als Entscheider agieren – mit Fokus auf Befähigung und Selbstverantwortung der Teams
 
-[[[LZ-6-7]]
+[[LZ-6-7]]
 ==== LZ 6-7: Sozio-technische Systeme verstehen und architektonisch berücksichtigen können
 - Die Wirkung von Teamstrukturen auf Architektur (und umgekehrt) beschreiben
 - Team-Definitionen nach Team-Topologies kennen und verstehen wie diese architektonisch unterschiedlich begleitet werden können
@@ -53,7 +53,7 @@ Architektur als Basis-Fähigkeit von Entwicklern etablieren. Beispielsweise durc
 // end::DE[]
 
 // tag::EN[]
-[[[LG-6-1]]
+[[LG-6-1]]
 ==== LG 6-1: Being familiar with ways to establish architecture as a cross-cutting concern in agile organizations
 Establishing architecture as a base capability of developers. For example through:
 - Open, cross-project communication of best practices
@@ -61,40 +61,40 @@ Establishing architecture as a base capability of developers. For example throug
 - Using architecture katas as a way to broaden architectural knowledge
 - Communicating and transferring architectural responsibility
 
-[[[LG-6-2]]
+[[LG-6-2]]
 ==== LG 6-2: Being familiar with the forces in architectural work between centralization and decentralization
 - Tension between centralized control and decentralized decision-making autonomy
 - Connecting governance approaches with agile thinking (principles instead of rules)
 - Actively shaping the boundary between macro and micro architecture
 - Naming important factors for successful decentralization (broad understanding of goals, shared architectural understanding, timely feedback, transparency and cross-pollination, ...)
 
-[[[LG-6-3]]
+[[LG-6-3]]
 ==== LG 6-3: Being able to classify and reflect on central architectural structures in organizations
 - Describing various central architectural structures (e.g., architecture board, advice forum, virtual architecture groups)
 - Assessing their benefits, risks, and suitable application contexts
 - Adapting formats for knowledge sharing, consulting, and standardization to the needs of agile organizations
 - Differentiating between controlling and enabling structures
 
-[[[LG-6-4]]
+[[LG-6-4]]
 ==== LG 6-4: Being familiar with the relationship between architectural styles and agile architectural work 
 - Explaining the influence of architectural styles on team autonomy and adaptability (e.g., microservices vs. layered architectures, self-contained systems vs. modular monoliths)
 - Understanding how architectural style, organizational structure, and viable working models influence each other
 
-[[[LG-6-5]]
+[[LG-6-5]]
 ==== LG 6-5: Being able to establish architectural concepts that promote local decision-making capabilities
 - Identifying and introducing measures that promote local technical decisions
 - Actively shaping a “path of least resistance”
 - Assessing the risks of excessive autonomy (e.g., inconsistency, redundant logic, technological fragmentation)
 - Developing suitable architectural principles and boundary conditions to create balance
 
-[[[LG-6-6]]
+[[LG-6-6]]
 ==== LG 6-6: Being able to accompany architectural decisions in an advisory capacity
 - Applying the basic idea and phases of the Architecture Advice Process
 - Differentiating between decision preparation, accompaniment, and responsibility
 - Selecting suitable formats for advisory architectural work (e.g., pairing, shadowing, reviews, consensus formats, ADR workshops)
 - Acting as a coach instead of a decision-maker – focusing on enabling and self-responsibility of teams
 
-[[[LG-6-7]]
+[[LG-6-7]]
 ==== LG 6-7: Being familiar with socio-technical systems and consider them in architectural work
 - Describing the effect of team structures on architecture (and vice versa)
 - Knowing team definitions according to Team Topologies and understanding how to support them architecturally in different ways

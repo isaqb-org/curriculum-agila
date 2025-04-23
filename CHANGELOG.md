@@ -1,3 +1,3 @@
 # Release Notes
-## New in 2024.1
+## New in 2025.1
 Please add some proper release notes
